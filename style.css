@@ -1,0 +1,33 @@
+h1{
+    color:teal
+}
+.yellow{
+    color: yellowgreen
+}
+.grey{
+    color: grey
+}
+.grid{
+    display: grid;
+    grid-template-rows: auto auto
+}
+.left{
+    background-color:darkcyan;
+    color: white;
+    padding: 20px
+}
+.dollar{
+ font-size: 30px
+}
+button{
+    background-color: yellowgreen;
+    color: white;
+    height: 50px;
+    width: 200px;
+    border: none
+}
+.right{
+    background-color:hsl(179, 62%, 43%);
+    color: white;
+    padding: 20px
+}
