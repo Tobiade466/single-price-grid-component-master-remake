@@ -9,7 +9,7 @@ h1{
 }
 .grid{
     display: grid;
-    grid-template-rows: auto auto
+    grid-template-columns: auto auto
 }
 .left{
     background-color:darkcyan;
