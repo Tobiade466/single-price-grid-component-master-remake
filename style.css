@@ -1,8 +1,8 @@
 h1{
-    color:teal
+    color:cadetblue
 }
 .yellow{
-    color: yellowgreen
+    color: hsl(71,73%, 54%)
 }
 .grey{
     color: grey
@@ -12,7 +12,7 @@ h1{
     grid-template-columns: auto auto
 }
 .left{
-    background-color:darkcyan;
+    background-color: cadetblue;
     color: white;
     padding: 20px
 }
@@ -20,14 +20,14 @@ h1{
  font-size: 30px
 }
 button{
-    background-color: yellowgreen;
+    background-color: hsl(71, 73%,54%);
     color: white;
     height: 50px;
     width: 200px;
     border: none
 }
 .right{
-    background-color:hsl(179, 62%, 43%);
+    background-color: #7ac5cd;
     color: white;
     padding: 20px
 }
