@@ -29,9 +29,9 @@ button{
 .right{
     background-color: #7ac5cd;
     color: white;
-    padding: 20px
+    padding: 30px
 }
-@ media only screen and (max-width:375px)
+@media only screen and (max-width:375px)
 {
 .grid{
    display: block
